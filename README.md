@@ -1,3 +1,3 @@
 # KonfliktDemo
 
-Her putter jeg inn noe greier
+Her er noe greier jeg putter inn fra Windows-maskinen.
